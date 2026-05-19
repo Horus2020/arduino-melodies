@@ -16,5 +16,10 @@ Instructions for use:
   7) Position the mouse cursor over the GND pin of the Arduino board and click once;
   8) Position the mouse cursor at the end of the black buzzer cable and click a second time.
   9) Delete all the code in the left window;
- 10) Paste the following code into the window;
- 11) Press the Play button. If the message "Failed to fetch" appears, press the Play button again.
+ 10) Paste the code from the "player_example.ino" file into the window;
+ 11) Edit the notes within the block 
+      const NoteStep melody[] = {
+      ...
+      }
+     with one of the melodies present 
+ 12) Press the Play button. If the message "Failed to fetch" appears, press the Play button again.
