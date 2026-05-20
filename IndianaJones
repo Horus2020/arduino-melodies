@@ -1,5 +1,5 @@
 // Indiana Jones – main theme (120 BPM)
-const NoteStep mel_indiana[] = {
+const NoteStep melody[] = {
     {N_E5,500},{N_D5,250},{N_R,125},{N_G4,125},{N_E5,250},{N_D5,250},{N_E4,375},
     {N_F4,125},{N_G4,375},{N_C5,1250},{N_D4,500},{N_E4,125},{N_F4,1500},
     {N_G4,375},{N_A4,125},{N_B4,250},{N_F5,1250},{N_A4,500},{N_B4,125},
