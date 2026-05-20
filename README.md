@@ -17,9 +17,9 @@ Instructions for use:
   8) Position the mouse cursor at the end of the black buzzer cable and click a second time.
   9) Delete all the code in the left window;
  10) Paste the code from the "player_example.ino" file into the window;
- 11) Replace entire block
+ 11) Replace entire block "
       const NoteStep melody[] = {
       ...
       }
-     with the same as one of the present melodies
+     " with the same as one of the present melodies
  12) Press the Play button. If the message "Failed to fetch" appears, press the Play button again.
