@@ -1,5 +1,5 @@
 // Super Mario Bros – main theme (150 BPM)
-const NoteStep mel_mario[] = {
+const NoteStep melody[] = {
     {N_C5,200},{N_R,400},{N_G4,200},{N_R,400},{N_E4,200},{N_R,400},{N_A4,200},
     {N_R,200},{N_B4,200},{N_R,200},{N_AS4,200},{N_A4,200},{N_R,200},{N_G4,200},
     {N_R,200},{N_E5,200},{N_G5,200},{N_A5,200},{N_F5,200},{N_R,200},{N_G5,200},
