@@ -22,4 +22,5 @@ Instructions for use:
       ...
       }
      " with the same as one of the present melodies;
- 12) Press the Play button. If the message "Failed to fetch" appears, press the Play button again.
+ 12) Change the value of #define MELODY_BPM with the BPM of the chosen melody (you can find them in the comment);
+ 13) Press the Play button. If the message "Failed to fetch" appears, press the Play button again.
