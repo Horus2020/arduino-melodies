@@ -70,7 +70,7 @@ void playMelody(const NoteStep* melody, uint16_t bpm) {
 }
 
 // =================================================
-// SOSTITUISCI QUI IL VALORE DI BPM E LA TUA MELODIA
+//   SUBSTITUTE THE BPM VALUE AND YOUR MELODY HERE
 // =================================================
 
 #define MELODY_BPM 120
