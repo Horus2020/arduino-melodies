@@ -1,5 +1,5 @@
 // Star Wars – main theme (120 BPM)
-const NoteStep mel_starwars[] = {
+const NoteStep melody[] = {
     {N_R,300},{N_F4,75},{N_R,75},{N_F4,75},{N_R,75},{N_AS4,1200},{N_F5,600},
     {N_DS5,150},{N_D5,150},{N_C5,150},{N_R,75},{N_AS5,1275},{N_F5,600},
     {N_DS5,150},{N_D5,150},{N_C5,150},{N_R,75},{N_AS5,1275},{N_F5,600},
